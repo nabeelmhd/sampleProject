@@ -51,7 +51,7 @@ namespace testApi
             app.UseSwagger();
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/api/test/swagger/v1/swagger.json", "Test API");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Test API");
             });
 
             app.UseEndpoints(endpoints =>
