@@ -28,7 +28,6 @@
     },
     "Docker": {
       "commandName": "Docker",
-      "launchBrowser": true,
       "launchUrl": "{Scheme}://{ServiceHost}:{ServicePort}/api/test",
       "publishAllPorts": true,
       "useSSL": true

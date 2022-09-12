@@ -13,8 +13,8 @@ namespace testApi.Controllers
             this._testService = testService;
         }
 
-        [System.Web.Http.Route("getData/{id}")]
-        [System.Web.Http.HttpGet]
+        [Route("getData/{id}")]
+        [HttpGet]
         public bool getData(int id)
         {
             var isExist =  this._testService.getData(id);
