@@ -1,3 +1,5 @@
 "# sampleProject" 
 
-this is fun
+this is fun.
+
+step 1
