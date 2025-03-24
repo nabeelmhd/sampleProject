@@ -41,6 +41,12 @@ namespace WebApplication.Controllers
             return null;
         }
 
+        public IActionResult Update()
+        {
+            return null;
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
