@@ -35,6 +35,7 @@ namespace WebApplication.Controllers
         }
         public IActionResult GetById()
         {
+            var id = 20;
             return null;
         }
         public IActionResult Create()
