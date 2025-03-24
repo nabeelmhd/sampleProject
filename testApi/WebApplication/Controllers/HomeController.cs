@@ -28,7 +28,13 @@ namespace WebApplication.Controllers
             return View();
 
         }
+
         public IActionResult GetAll()
+        {
+            return null;
+        }
+
+        public IActionResult GetByID()
         {
             return null;
         }
