@@ -26,6 +26,11 @@ namespace WebApplication.Controllers
         public IActionResult Privacy()
         {
             return View();
+
+        }
+        public IActionResult GetAll()
+        {
+            return null;
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
