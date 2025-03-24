@@ -42,6 +42,16 @@ namespace WebApplication.Controllers
             return null;
         }
 
+        public IActionResult Update()
+        {
+            return null;
+        }
+
+        public IActionResult Create()
+        {
+            return null;
+        }
+
         public IActionResult GetByID()
         {
             return null;
