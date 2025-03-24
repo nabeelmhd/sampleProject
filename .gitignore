@@ -1,0 +1,14 @@
+*.dll
+testApi/testApi/bin/
+testApi/testApi/obj/
+testApi/WebApplication/bin/
+testApi/WebApplication/obj/
+testApi/bin/
+testApi/obj/Debug/
+testApi/obj/Docker/CachedComposeConfigFilePaths.cache
+testApi/obj/
+testApi/.vs/testApi/DesignTimeBuild/.dtbcache.v2
+testApi/.vs/ProjectEvaluation/testapi.metadata.v5.1
+testApi/.vs/testApi/config/applicationhost.config
+testApi/.vs/testApi/FileContentIndex/112d559a-11b8-47ac-9f17-9ff84bb0acce.vsidx
+testApi/.vs/
