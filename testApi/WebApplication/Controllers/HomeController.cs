@@ -29,12 +29,13 @@ namespace WebApplication.Controllers
 
         }
 
-        public IActionResult GetAll(string searchkey)
+        public IActionResult GetAll(int id)
         {
             return null;
         }
         public IActionResult GetById()
         {
+            var id = 20;
             return null;
         }
         public IActionResult Create()
