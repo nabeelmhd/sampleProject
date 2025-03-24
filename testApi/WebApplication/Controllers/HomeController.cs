@@ -30,7 +30,7 @@ namespace WebApplication.Controllers
         }
         public IActionResult GetAll(int id)
         {
-            return id;
+            return null;
         }
         public IActionResult GetById()
         {
