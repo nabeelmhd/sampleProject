@@ -29,7 +29,7 @@ namespace WebApplication.Controllers
 
         }
 
-        public IActionResult GetAll(string searchkey)
+        public IActionResult GetAll(int id)
         {
             return null;
         }
