@@ -33,6 +33,10 @@ namespace WebApplication.Controllers
         {
             return null;
         }
+        public IActionResult GetById()
+        {
+            return null;
+        }
 
         public IActionResult GetByID()
         {
