@@ -38,6 +38,7 @@ namespace WebApplication.Controllers
             var id = 20;
             var name = "dury";
             var x = 10;
+            var y = 100;
             return null;
         }
         public IActionResult Create()
