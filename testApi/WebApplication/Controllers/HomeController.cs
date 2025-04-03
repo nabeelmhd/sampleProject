@@ -36,6 +36,7 @@ namespace WebApplication.Controllers
         public IActionResult GetById()
         {
             var x = 10;
+            var y = 11;
             return null;
             var d = "duryy";
         }
